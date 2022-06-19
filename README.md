@@ -24,7 +24,7 @@ Click new and fill in these settings. (Change secret's value to your secret key)
 
 Exit out of the menu and select "After upload tasks", then deselect everything and select "Copy URL to clipboard".<br><br>
 Then do the same for "After capture tasks", but select "Upload image to host", instead.<br><br>
-Then, in destinations, change your image, file & text uploader to your custom uploader.<br><br>
+Then, in destinations, change your image, file & text uploader to your custom uploader.
 <br><br><br>
 ![final](https://vexon.ml/uploads/lr3khsc56y1fc84x/lr3khsc56y1fc84x.png)
 <br><br>
