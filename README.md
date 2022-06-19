@@ -14,21 +14,18 @@ Change $titleContent to whatever you want the embed title to be.<br><br>
 <br>
 ![show](https://vexon.ml/uploads/v9op2qslh9svhw4u/v9op2qslh9svhw4u.png)
 <br><br><br>
-Now, onto configuring ShareX to upload to our site.
-<br>
-Open ShareX from your tray and head over to the "Destinations" tab and click "Custom uploader settings..."
-<br>
+Now, onto configuring ShareX to upload to our site. <br><br>
+Open ShareX from your tray and head over to the "Destinations" tab and click "Custom uploader settings..." <br><br>
 ![destinations](https://vexon.ml/uploads/fskj5d7fslq9bmz8/fskj5d7fslq9bmz8.png)
-<br><br>
-Click new and fill in these settings. (Change secret's value to your secret key)
-<br>
+<br><br><br>
+Click new and fill in these settings. (Change secret's value to your secret key) <br><br>
 ![settings](https://vexon.ml/uploads/7bbdcrs71vl3ze2y/7bbdcrs71vl3ze2y.png)
-<br><br>
+<br><br><br>
 
-Exit out of the menu and select "After upload tasks", then deselect everything and select "Copy URL to clipboard".
-Then do the same for "After capture tasks", but select "Upload image to host", instead.
-Then, in destinations, change your image, file & text uploader to your custom uploader.
-<br>
+Exit out of the menu and select "After upload tasks", then deselect everything and select "Copy URL to clipboard".<br><br>
+Then do the same for "After capture tasks", but select "Upload image to host", instead.<br><br>
+Then, in destinations, change your image, file & text uploader to your custom uploader.<br><br>
+<br><br><br>
 ![final](https://vexon.ml/uploads/lr3khsc56y1fc84x/lr3khsc56y1fc84x.png)
 <br><br>
 And you're done! 
