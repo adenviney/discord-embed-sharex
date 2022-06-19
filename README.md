@@ -11,7 +11,7 @@ Change $domain_url to the **full** URL of your domain. If you have a subdomain, 
 Change $domain_name to the domain URL without http/https. Example: `google.com`<br><br>
 Change $hexCode to the color you want your embed to be. Get a hex code [here](https://htmlcolorcodes.com/color-picker/).<br><br>
 Change $titleContent to whatever you want the embed title to be.<br><br>
-<br><br>
+<br>
 ![show](https://vexon.ml/uploads/v9op2qslh9svhw4u/v9op2qslh9svhw4u.png)
 <br><br><br>
 Now, onto configuring ShareX to upload to our site.
