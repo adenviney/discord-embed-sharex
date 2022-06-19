@@ -40,7 +40,7 @@ if(isset($_POST['secret']))
         }
 
         //Create HTML for folder uploads/filename
-        $html = '<!DOCTYPE html><html><head><meta charset="utf-8"><title>'.$filename.'</title><meta name="robots" content="noindex, nofollow"><meta property="og:title" content="'.$titleContent.'"><meta property="og:site_name" content="'.$domain_name.'"><meta property="og:image" content="'.$domain_url.$sharexdir.$filename.'/'.$filename.'.'.$fileType.'"><meta name="theme-color" content="#'.$hexCode.'"><meta name="twitter:card" content="summary_large_image"></head><body><a href="'.$domain_url.$sharexdir.$filename.'/'.$filename.'.'.$fileType.'">View Image</a></body></html>';
+        $html = '<!DOCTYPE html><html><head><meta charset="utf-8"><title>'.$filename.'</title><meta name="robots" content="noindex, nofollow"><meta property="og:title" content="'.$titleContent.'"><meta property="og:site_name" content="'.$domain_name.'"><meta property="og:image" content="'.$domain_url.$sharexdir.$filename.'.'.$fileType.'"><meta name="theme-color" content="#'.$hexCode.'"><meta name="twitter:card" content="summary_large_image"></head><body><a href="'.$domain_url.$sharexdir.$filename.'.'.$fileType.'">View Image</a></body></html>';
         file_put_contents($sharexdir.'index.html', $html);
         
         
