@@ -3,8 +3,7 @@ I created this repo after seeing my friend spend $5 on a custom link sender and 
 
 
 # How to use?
-First, you're going to need a domain & a hosting service with at lweast 100MB storage.
-<br>
+First, you're going to need a domain & a hosting service with at lweast 100MB storage. <br><br>
 Next, create a file ending in .php, for this demonstration, I'll use the name `upload.php`.
 Paste the script into upload.php and edit $secret_key to a secure string of characters and numbers. This will prevent anyone else from uploading to your site. Example: `UISh7890HJ08Dhb8hd9DH890h1`
 Change $domain_url to the **full** URL of your domain. If you have a subdomain, add it. Example: `https://google.com`
